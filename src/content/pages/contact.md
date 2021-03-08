@@ -3,6 +3,7 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Looking to get in contact with me? Intersted in knowing more about me or just looking to talk in general, please do not hesitate to. Just send me a message using the form below or you can send me a DM on
+[Twitter](https://twitter.com/KaiVanilla)
+

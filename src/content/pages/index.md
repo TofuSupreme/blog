@@ -1,11 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Tofu Supreme
+tagline: Front-end Engineer
+featuredImage: /assets/profile-picture.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+
+Behind the alias (Tofu Supreme) is a US native who has emigrated to Japan in 2014.
+She is a novice Frontend Engineer with plans to become a professional in due time.
