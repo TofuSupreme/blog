@@ -10,4 +10,4 @@ cta:
 ---
 
 Behind the alias (Tofu Supreme) is a US native who has emigrated to Japan in 2014.
-She is a novice Frontend Engineer with plans to become a professional in due time.
+She is a <del>Frontend Engineer</del> Full Stack Developer.
