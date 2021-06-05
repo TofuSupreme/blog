@@ -2,9 +2,9 @@
 template: blog-post
 title: A long hiatus
 slug: /hiatus
-date: 2021-05-13 8:30
+date: 2021-05-13 08:30
 description: hiatus
-featuredImage: /assets/computer_programming_woman.png
+featuredImage: /assets/hirune_soto_businesswoman.png
 ---
 
 # It's been a long time!
